@@ -1,16 +1,10 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Satriadi"
-  given-names: "Kadek Ananta"
-- family-names: "Ens"
-  given-names: "Barrett"
-- family-names: "Cordeil"
-  given-names: "Maxime"
-- family-names: "Czauderna"
-  given-names: "Tobias"
-- family-names: "Jenny"
-  given-names: "Bernhard"
-title: "Maps around me: 3D multiview layouts in immersive spaces"
-version: 0.1.0
-doi: https://doi.org/10.1145/3427329
+@article{satriadi2020maps,
+  title={Maps around me: 3D multiview layouts in immersive spaces},
+  author={Satriadi, Kadek Ananta and Ens, Barrett and Cordeil, Maxime and Czauderna, Tobias and Jenny, Bernhard},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={4},
+  number={ISS},
+  pages={1--20},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
