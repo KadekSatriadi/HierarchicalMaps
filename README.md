@@ -1,7 +1,7 @@
 # Hierarchical Maps
 Hierarchical maps for Unity + Mapbox. Recursively instantiating map from another map based on a selected region of interest. 
 
-  ![Image](https://raw.githubusercontent.com/KadekSatriadi/HierarchicalMaps/main/Captures/image_004_0005.jpg?token=GHSAT0AAAAAABRHSHIT7JBJFIIHU7Y4EXL4YSNTEOQ)
+  ![Image](https://github.com/KadekSatriadi/HierarchicalMaps/raw/main/Captures/image_004_0005.jpg)
 
 **Features**
 - Simple interactive maps (panning and zooming). 
