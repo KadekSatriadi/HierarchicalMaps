@@ -3,6 +3,8 @@ Hierarchical maps for Unity + Mapbox. Recursively instantiating map from another
 
   ![Image](https://github.com/KadekSatriadi/HierarchicalMaps/raw/main/Captures/image_004_0005.jpg)
 
+This is a plain, non-VR, version. 
+
 **Features**
 - Simple interactive maps (panning and zooming). 
 - Slicing map interaction to instantiate a child map, currently supports rectangular shape only.
